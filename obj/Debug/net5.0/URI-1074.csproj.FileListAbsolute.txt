@@ -1,0 +1,16 @@
+C:\Projetos\URI-1074\bin\Debug\net5.0\URI-1074.exe
+C:\Projetos\URI-1074\bin\Debug\net5.0\URI-1074.deps.json
+C:\Projetos\URI-1074\bin\Debug\net5.0\URI-1074.runtimeconfig.json
+C:\Projetos\URI-1074\bin\Debug\net5.0\URI-1074.runtimeconfig.dev.json
+C:\Projetos\URI-1074\bin\Debug\net5.0\URI-1074.dll
+C:\Projetos\URI-1074\bin\Debug\net5.0\ref\URI-1074.dll
+C:\Projetos\URI-1074\bin\Debug\net5.0\URI-1074.pdb
+C:\Projetos\URI-1074\obj\Debug\net5.0\URI-1074.csprojAssemblyReference.cache
+C:\Projetos\URI-1074\obj\Debug\net5.0\URI-1074.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\URI-1074\obj\Debug\net5.0\URI-1074.AssemblyInfoInputs.cache
+C:\Projetos\URI-1074\obj\Debug\net5.0\URI-1074.AssemblyInfo.cs
+C:\Projetos\URI-1074\obj\Debug\net5.0\URI-1074.csproj.CoreCompileInputs.cache
+C:\Projetos\URI-1074\obj\Debug\net5.0\URI-1074.dll
+C:\Projetos\URI-1074\obj\Debug\net5.0\ref\URI-1074.dll
+C:\Projetos\URI-1074\obj\Debug\net5.0\URI-1074.pdb
+C:\Projetos\URI-1074\obj\Debug\net5.0\URI-1074.genruntimeconfig.cache
